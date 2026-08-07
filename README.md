@@ -46,21 +46,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-
-### 📌 Proyecto 1
-> Breve descripción del proyecto.
-
-- 🛠️ Tecnología: Python
-- 🔗 [Ver repositorio](https://github.com/IngAndresito)
-
-### 📌 Proyecto 2
-> Breve descripción del proyecto.
-
-- 🛠️ Tecnología: Java
-- 🔗 [Ver repositorio](https://github.com/IngAndresito)
-
----
 
 ## 📫 Contacto
 
@@ -76,7 +61,7 @@
 
 <div align="center">
 
-### ⭐ Gracias por visitar mi perfil ⭐
+### ⭐ T Amo ⭐
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IngAndresito&color=2D9F7F&style=flat-square)
 
