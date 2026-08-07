@@ -110,7 +110,7 @@ Soy estudiante de **Tecnologías de la Información** y me encuentro desarrollan
 </div>
 
 ---
-
+<!-- =====================================================
 # 🚀 Proyectos destacados
 
 <table>
@@ -166,8 +166,7 @@ Proyecto enfocado en el aprendizaje de tecnologías y desarrollo web.
 </tr>
 </table>
 
----
-
+-->
 # 🎯 Actualmente
 
 <div align="center">
