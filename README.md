@@ -32,14 +32,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IngAndresito&show_icons=true&hide_border=true&title_color=2D9F7F&icon_color=2D9F7F&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=IngAndresito&show_icons=true&hide_border=true&title_color=2D9F7F&icon_color=2D9F7F&text_color=c9d1d9&bg_color=0d1117" />
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngAndresito&layout=compact&hide_border=true&title_color=2D9F7F&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=IngAndresito&layout=compact&hide_border=true&title_color=2D9F7F&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
 ---
-
 ## 📈 Actividad
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IngAndresito&bg_color=0d1117&color=2D9F7F&line=2D9F7F&point=ffffff&area=true&hide_border=true)](https://github.com/IngAndresito)
